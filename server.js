@@ -15,7 +15,7 @@ var lock = false;
 
 
 trySendATweet();
-setInterval(trySendATweet, 1000 * 30);
+setInterval(trySendATweet, 1000 * 60 * 60 * 1.5);
 
 function trySendATweet()
 {

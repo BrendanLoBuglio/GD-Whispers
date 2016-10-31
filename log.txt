@@ -14,6 +14,8 @@ Mouse & Keyboard swappers work!
 @ae99250f4d2fb3bebf5f4cc757fc74f35a390114@$$$
 Just throwing some .meta files up there to get them outta my face
 @093e1a362bbf19857a72fe2bc9d391e376c11a08@$$$
+Adding Keyboard-centric input graphics and a simple swapper
+@7fb5f37272b8c303fb36b462015b2ecd8a3de180@$$$
 added wwise for mac finally guys.
 @9d3af14df66badf6556ab3ef1f5440748c4141f3@$$$
 I really don't think this will break everything but its a lot of files so if it does im really sorry. ps someone try building from a mac
@@ -94,6 +96,8 @@ cave scene better.
 @9c163e950cda0d71a8036f8582bf063f37e76a63@$$$
 Merge branch 'master' of https://github.com/BrendanLoBuglio/Grassdancer
 @c01acd21932e5e88a310933949b414928da8d186@$$$
+Lit the cave
+@b4394ea634d75f0b5c5f421fdc9b6d97c8797f29@$$$
 Using theirs on stumpzone
 @6e0c7e49a880b4701e0439ed560b21c801309736@$$$
 Committing stump zone just in case; fully expect to overwrite
@@ -113,6 +117,8 @@ Merge branch 'master' of https://github.com/BrendanLoBuglio/Grassdancer
 @6821730a79f073ee5ac4e6aa746da614a48e018e@$$$
 spider web waypoint tweaks. also removed a glow worm
 @3aab34f1102e84634141c26bc1221323cfc2424a@$$$
+mega mush is unclimbable
+@d8967a76b0d8c44d67518ba0a75afaa16e69eb6e@$$$
 Merge branch 'master' of https://github.com/BrendanLoBuglio/Grassdancer
 @e205fac5eeb43bafa579dd403c240835e86cf194@$$$
 Cut the cave mesh to shreds
@@ -129,6 +135,8 @@ fixed pause menu things and added timer notifications
 @206ec82242500ab3e1f60d03ef921550f419171c@$$$
 Merge branch 'master' of https://github.com/BrendanLoBuglio/Grassdancer
 @7fedcae31fadcefc54d494d573554b2ba3fc7f14@$$$
+Fixed layering issue on Cave Flower
+@dc1852e6d999c018aaec9a0fce8be6f4889c3ac5@$$$
 Merge branch 'master' of https://github.com/BrendanLoBuglio/Grassdancer
 @a486bce6b9aa4bfb7823aaaf5586b0600e4f066e@$$$
 Merge branch 'master' of https://github.com/BrendanLoBuglio/Grassdancer
@@ -160,6 +168,8 @@ Bertha Texture, Animation tweaking
 @41428fab5e26a551b2559b58d358d4f503197953@$$$
 Merge branch 'master' of https://github.com/BrendanLoBuglio/Grassdancer
 @f190175cf0fc9837e0423f77fd3cb08a6b2a18cb@$$$
+final audio cue
+@763e54bd087deae0d24c648fe613a070ac7ab9aa@$$$
 Merge branch 'master' of https://github.com/BrendanLoBuglio/Grassdancer
 @4ba2616a547ce0938404d53e985230ddf31a949c@$$$
 i hate bertha but at least now she has color
@@ -200,6 +210,8 @@ Merge branch 'master' of https://github.com/BrendanLoBuglio/Grassdancer
 @016274919ad2c67497b04a97211cd6c9fb769d2b@$$$
 Stump Zone is an inescapable existential prison (invisible walls)
 @1ce95542c480be3db0b6da879d4d1e5075fe33c1@$$$
+every respawn also propor fileter.
+@bbab74b7a0c021b04c4ad663f49060fcbd75518b@$$$
 Merge branch 'master' of https://github.com/BrendanLoBuglio/Grassdancer
 @3d19f613128227cd6aac3868794338aa97a07ff1@$$$
 Merge branch 'master' of https://github.com/BrendanLoBuglio/Grassdancer
@@ -212,6 +224,8 @@ Merge branch 'master' of https://github.com/BrendanLoBuglio/Grassdancer
 @e84acc258bca1df20d453762d1b8a89f041a92b6@$$$
 Merge branch 'master' of https://github.com/BrendanLoBuglio/Grassdancer
 @5ea7c66df90e20092b7c52fccfe623017bd8478f@$$$
+cave
+@39e4556db59b1b530178aa60f93212e319db6caf@$$$
 The Tutorial actually can't be escaped now
 @e078e79dc846cba1d1986eef098fe816583e117c@$$$
 nugs nugs nugs
@@ -238,6 +252,8 @@ implemented tutorial fade
 @c10d47490e75c7c4f199528febdf634f99899b7c@$$$
 *jean ralfio voice* fluuuuuuuuuuush with Graaaaaassssssssssss
 @a22f8f1be84c6c8ad2b0f19721807376e268ab06@$$$
+Merge branch 'master' of https://github.com/BrendanLoBuglio/Grassdancer
+@1ebcd685d97ed1f3964eb786d7a40cd86027907b@$$$
 dismissable functionality
 @7ddb9b3526cf43b92e8ce51048baf5d3ad7aaac6@$$$
 Merge branch 'master' of https://github.com/BrendanLoBuglio/Grassdancer
@@ -252,6 +268,8 @@ Merge branch 'master' of https://github.com/BrendanLoBuglio/Grassdancer
 @fe6cdd28d0116329b4db772a3f573d1d4afd2b95@$$$
 NOTHING IN THE CAVE FLOATS, plus new crystal materials
 @a5932c014ce81216578f8eb7f618d13acb4789b6@$$$
+im too tired to write something clever
+@bfa9f1a1b0ac41339169a8cdbfbcd7590e87f586@$$$
 Merge branch 'master' of https://github.com/BrendanLoBuglio/Grassdancer
 @78c1af8609c9f5fc057e38c926641a74ab9053bf@$$$
 endgame event is in. Put back the graph for stump music
@@ -309,6 +327,8 @@ more ui suffering
 @d837fa01601964a07a0733307e81e64b393753b1@$$$
 Merge branch 'master' of https://github.com/BrendanLoBuglio/Grassdancer
 @d4a6e5e7d5715c0cdbd37758e4bec79c8150984d@$$$
+Made a player kill volume -- needs to be placed below every level to prevent infinite falling
+@c1949aedc2a0d6750ce8be9f770ce9489b93f0c5@$$$
 Shortened Grass walking sound
 @1a861e7f9cccd7d190138534b62b31f9f1c5236c@$$$
 Removed Lily pond from build settings
@@ -391,6 +411,8 @@ Merge branch 'master' of https://github.com/BrendanLoBuglio/Grassdancer
 @a3ca10214b32f9026cdb2edc001f418c1da79c1e@$$$
 jump rotation fixed.
 @3b8db57a216cf4edbcba1cc046aee38bfd78a997@$$$
+Merge branches 'master' and 'master' of https://github.com/BrendanLoBuglio/Grassdancer
+@279299a974a272646708d836a143275495337c49@$$$
 TWOTORIAL: making the tutorial less bad pt two
 @b6551a5359e4828c18b6c3df4b7668bf785d25f2@$$$
 Merge branch 'master' of https://github.com/BrendanLoBuglio/Grassdancer
@@ -445,6 +467,8 @@ Merge branch 'master' of https://github.com/BrendanLoBuglio/Grassdancer
 @136f40eb9b361759c1c2a892d671c7d28fcdf9f1@$$$
 VIVIAN TWO: the second one
 @9d6dc5152e48c05fd9c8d48f1ed65e2912990ece@$$$
+Fixed Y rotation of all ticklegrass again after merge
+@0677e6ee687060a46443166d428e501ce8593e3b@$$$
 Merge branch 'master' of https://github.com/BrendanLoBuglio/Grassdancer
 
 # Conflicts:
@@ -452,6 +476,8 @@ Merge branch 'master' of https://github.com/BrendanLoBuglio/Grassdancer
 @783c60a885507403ce108ae62a8f003289cdabbd@$$$
 Fixed Y rotations of all grass in stump zone
 @4fd7ce99748fc65d380d8e2d682ab3e7984abdaa@$$$
+flagged a lot of things as static.
+@246816a85f2fb7d2bbb22dedf894f0a2f8406eba@$$$
 Revert "So it turned out that the real culprit for the rotation bug on ticklegrass was actually just the camera, so I went and fixed that. We kinda owe Tickles an apology -- they got really upset, really defensive when we accused them of not working right. They're really self-conscious about that kinda stuff, really everything in general, and I guess maybe we could've handled the whole situation a little better. Obviously maybe they're a little overly sensitive, but I suppose that's just the way it's always going to be with them. We do love ol' TG, but it can be pretty exhausting to be with them sometimes. Overall, the important thing to keep in perspective is that none of this is a big deal. We're all just a little tense these days, and to a certain extent that's reasonable and fine and to be expected."
 
 This reverts commit f77b32cd8de7b3d71ba001efea123ef5c371bb40.
@@ -540,6 +566,8 @@ grass color variation
 @c58c8a253ea6fd5b2c9fc677985d610038db5f77@$$$
 first pass stump zone paint
 @1c7d021bf1b47381c8c6275f5cc223ca6f2a64f7@$$$
+Small respawn and tiger beetle improvements
+@25cbb79d2c9116c36089d04e763ecd24a39c1f91@$$$
 Merge branch 'master' of https://github.com/BrendanLoBuglio/Grassdancer
 
 Conflicts:
@@ -612,6 +640,8 @@ Merge branch 'master' of https://github.com/BrendanLoBuglio/Grassdancer
 Fixed the editor bug where you couldn't select objects in scene
 @4325bd2f1286851a1a6cc1748fbf4af7961629bf@$$$
 Merge branch 'master' of https://github.com/BrendanLoBuglio/Grassdancer
+@5bf2acbdbc4af3330e94fb692e5e58dbed729645@$$$
+Merge branch 'master' of https://github.com/BrendanLoBuglio/Grassdancer
 @8ce5e054cdf719301a0cabbfa9c7aa1ce37e9b3a@$$$
 web rumble is in
 @0b443cf812bcaa9d7f83915845cebba4664835fc@$$$
@@ -635,10 +665,16 @@ New Stump Zone Floor
 @a581148ff9bc6c7ba1fcf583269d1648e1164097@$$$
 took out some old score trackign stuff
 @7b127da54177dc41a38472e7afc32d82f9f3b219@$$$
+Merge branch 'master' of https://github.com/BrendanLoBuglio/Grassdancer
+@fc166b1106a59f82019de1f91c73067aff9f8089@$$$
 on screen ui
 @89a730d4258abe3d417856a0db403bff8146a8c9@$$$
 The big Leaves and Sticks update
 @2a75b92a60ee2f389f435f4f88c8dbdaddd4df66@$$$
+Merge branch 'master' of https://github.com/BrendanLoBuglio/Grassdancer
+@e6ea38180c98d4cd4067e288bb383987e42c071d@$$$
+Cave Decorations
+@3a66b0ac2e4cbfba255a9f6508c4909d00e59e26@$$$
 Merge branch 'master' of https://github.com/BrendanLoBuglio/Grassdancer
 @92999fa7aafb11d5787fee28b1c5d785076758bc@$$$
 slapped a top on the stump
@@ -659,6 +695,8 @@ Added becky to Tutorial <3 <3 <3 <3
 @0245765c37226d151c857c218c6c838e2547407a@$$$
 Merge branch 'master' of https://github.com/BrendanLoBuglio/Grassdancer
 @a5ffc0b8c4ed17030b5a958f3480da489d6fdf35@$$$
+dive rumble. (not my controller is awful so maybe the value is excessive)
+@f07cc6c692dabd558a76a671c7c9df1aed393cf2@$$$
 Merge branch 'master' of https://github.com/BrendanLoBuglio/Grassdancer
 @37c49c6e0864b711788c2c001dab469fa904f962@$$$
 fixed a bug where things will vibrate forever if it break.s
@@ -722,6 +760,8 @@ some audio things.
 @ba08d8b219d7c3ae80000b7f663a76a22936e755@$$$
 Merge branch 'master' of https://github.com/BrendanLoBuglio/Grassdancer
 @5f7fd0449a55741b9a65acb3b1ce22f0f7dcb562@$$$
+Cave Decorations
+@256876313cf44d3fe51dfe3febfe9a20fc3d1952@$$$
 Merge branch 'master' of https://github.com/BrendanLoBuglio/Grassdancer
 @c5c0aae3a82a9b021a6d4d0627d990d20b1ba347@$$$
 you would not believ e uyour eyesssss
@@ -734,6 +774,8 @@ cute icons
 @5315c56ac5a98786eed2713d7b510ae8d9847370@$$$
 added web tab
 @c5674c910bcbd04489fc72b5b267a6f61134ab66@$$$
+slopes work better im hopeing non slopes still work well.
+@15aee7c7493443ddf29342d9d5c6b394370b91c5@$$$
 who keeps messing with the water
 @5404768029d174c150ae8e9d54642aaeae7febcd@$$$
 Merge branch 'master' of https://github.com/BrendanLoBuglio/Grassdancer
@@ -784,6 +826,8 @@ Stump music is in dawg
 @8843ed1d6af2edc1558d10e26f02d709a3a41dc4@$$$
 END PANEL THINGS
 @c6ec630590bf22cd7251b3e49ec4b0b94785c49e@$$$
+Finally Can Push Stump Level Tweaks with Random Meta Adds
+@c68ebffb32af5136ae3b0020ee5973eb663ce930@$$$
 Merge branch 'master' of https://github.com/BrendanLoBuglio/Grassdancer
 @014f53bd45a7a3905154dab8cd313fbe3e838d2a@$$$
 rumble pass
@@ -799,6 +843,8 @@ Merge branch 'master' of https://github.com/BrendanLoBuglio/Grassdancer
 # Conflicts:
 #	Grassdancer-Unity/Assets/_Scenes/Game Scenes/StumpZone.unity
 @e9644efe12a3cfc51f9b16b286b12fd4d9e08de7@$$$
+Stump Level Camera and Geo Tweaks
+@d6121efd2dead131902dd207969d3113946e0064@$$$
 Merge branch 'master' of https://github.com/BrendanLoBuglio/Grassdancer
 @bed531a85a03045720078aa37272d4726bae7072@$$$
 new lily colors
@@ -839,6 +885,8 @@ Added Some Decorative Objects
 @80dd4bba5da9406c98d94452ba89e36e2af12556@$$$
 DUMB LIL ROCK CROWNS on glowworms
 @a5b4dc52ba5b9df1c89e0c7a65d1ff133b377419@$$$
+added new tag for things that you want to walk on but now camera on.
+@e450bb4668290ae69c1561ab4f7c7224d76bcb6e@$$$
 we wrote these songs with cubes.
 @c4d30d5e32b5a8fc37ffa1f47d6da166162505b5@$$$
 dabbing on stump zone polish.
@@ -971,6 +1019,8 @@ Shader fuckery
 @ab0ed0bb4f917f82c82988365b823edc402f254f@$$$
 added cute icons to main menu too
 @e12cb17dcc100d3d6b65a858fd008d614c9b1da9@$$$
+Merge branch 'master' of https://github.com/BrendanLoBuglio/Grassdancer
+@2194fd6349529052a8ca789b7eb68a8afcb0685b@$$$
 menu gettin way better
 @6d48602b558b31aba3969cb9a6ea95a74e9532ce@$$$
 Louder double jump
@@ -981,8 +1031,12 @@ bertha sets the pos correctly now
 @6f7f0831e08c4d9cf0735e85c2cc6f750a3b2b94@$$$
 camera points at vivian after death
 @f95e95102d6c5351d8bbd194251a48baceea35f6@$$$
+Swapped main menu geo with lily pond! RIP Arizona desert
+@c89acf2ad6d82a58397c833f9de6b80fedac909d@$$$
 Somehow my changes to MainMenu.unity aren't sticking. Here's me saving a backup that I intend to replace the current file with, in case I need to roll back
 @a793e40236c7f01860ef4ff0aa714c06bfda5ada@$$$
+Merge branch 'master' of https://github.com/BrendanLoBuglio/Grassdancer
+@1bfa92e3c642ec99b7f67a9e881217aa9009f033@$$$
 Main menu is now Lily pond
 @65efd3f54283fc0dd46c6c216db0ea98f9d0033e@$$$
 Merge branch 'master' of https://github.com/BrendanLoBuglio/Grassdancer
@@ -1062,6 +1116,8 @@ made grass camera match swapped inputs.
 @217fdc1f0d1dea71ecfeb67c30221e1bd757363e@$$$
 Uncommented grass auto-aim
 @ad13171832700d7790e8e30891f62fb091513f8e@$$$
+Merge branch 'master' of https://github.com/BrendanLoBuglio/Grassdancer
+@55a7eae08e0bb42343054db6c01c07de7282ed59@$$$
 Fixed a little debug so-and-so
 @b9f321fd8a8e211f84449eed7ab301d21bf189d7@$$$
 Merge branch 'master' of https://github.com/BrendanLoBuglio/Grassdancer
@@ -1080,6 +1136,8 @@ Resolved Playerscene with theirs
 @2af36390caed672e38a4f6011d55f7ad0fa87eb2@$$$
 Pushing cave seed positions for chloe
 @ecf73136eb2a443ffa4b748686f4414acda3b82e@$$$
+Doing a big revamp of grass gravity so that it mostly works in conjunction with input, yo. Also fixed a bug with grassgravity
+@3184e8d3cbc7b9886ea97ebd324f0ad044eee677@$$$
 fucked around with some worms
 @8ecc317c3cbf4e0bbaddba5fc078224b76fc93f6@$$$
 Merge branch 'master' of https://github.com/BrendanLoBuglio/Grassdancer
@@ -1178,6 +1236,8 @@ Cave BGX added
 @6ef599fea4a9a58da503147b3d4348310f35da3d@$$$
 maybe fixes the weird camera rotation on grass when not moving?
 @2ab5866a37f8583d0407e3ffb4a202cd035dcc4e@$$$
+added death settings to the ave.
+@524ace9695c6c23c575a24afc17459ee00fa3475@$$$
 Merge branch 'master' of https://github.com/BrendanLoBuglio/Grassdancer
 @9c204487e6afe33708a9fb70a3f0f2d20dd3cf61@$$$
 Added mushroom landning fx
@@ -1186,6 +1246,8 @@ general optimization tweaks.
 @ed57162aca9aae43be02027c568c1d8c8017187e@$$$
 Adjusted sound effects
 @a3b2372464b761ed87ed5118b4b8c607d9dbb8a1@$$$
+Merge branch 'master' of https://github.com/BrendanLoBuglio/Grassdancer
+@353a16f53721d3d3a9e6e3dfdd6a909b1baa993f@$$$
 Fixed followCamera capture tool
 @7976dfcc3dc5b26f5cb1e18b495e4cdbf3767539@$$$
 cant jump up slopes anymores.
@@ -1214,8 +1276,16 @@ Added deathcam stuff.
 @48243e091343b9fa64e2f81c9f383682417f0b48@$$$
 Merge branch 'master' of https://github.com/BrendanLoBuglio/Grassdancer
 @7e3f3cbafedf615b010edcb887c91ec31ef10a52@$$$
+added public currentdeathparameters to pcm.
+@81dacb6d72d8e8b672815561c36e9c4b9f5c734e@$$$
 Merge branch 'master' of https://github.com/BrendanLoBuglio/Grassdancer
 @ac622c9bdf23fedc47a924399f5c276bd5147814@$$$
+I Hope You Like Colors and Environmental Objects
+
+- Colored objects in Lily Pod
+- Added a log, stump, and wall mushrooms
+- Fixed sprout animations
+@d19d751f897ece1afdb8abd137307b8b580ec281@$$$
 Merge branch 'master' of https://github.com/BrendanLoBuglio/Grassdancer
 @ae2f38ddcd0768344545a4f0cc0a83ce035ebbbb@$$$
 my level is so kawaii~~~
@@ -1356,6 +1426,14 @@ All of the jump feedback is in! Holy shit man, this is a lot
 Put in wing sounds for jones' jumps -- now I'm thinkin about buffalo wings
 @625e05ffe61fe424264ad2ade5bc7a8b1b368656@$$$
 Merge branch 'master' of https://github.com/BrendanLoBuglio/Grassdancer
+@2cdb5c84db3323ab41a4fc1d91fa6339d0ae15c2@$$$
+TAKE YOUR FUCKING FLOWERS AND SHOVE THEM UP YOUR ASS
+
+- Flower model
+- Growing animation
+- Ryan's now missing soul
+@920e7a4ee5e9c05bd746eaff3296aa35427af22b@$$$
+Merge branch 'master' of https://github.com/BrendanLoBuglio/Grassdancer
 @acd33b0269934b7ad539a3b31b99592f94a382df@$$$
 Buncha Wwise events added
 @b1c63fab65ec72745e783437861636be66fbfa85@$$$
@@ -1435,6 +1513,8 @@ Made new folders and containers for stump and cave music
 @5cf6b23221566f01a245ed68e0d98f4278335301@$$$
 Replaced super illegal day ambience for lily pond
 @f2af6d9ce826838a073a97ed80060935d1b32c6e@$$$
+Merge branch 'master' of https://github.com/BrendanLoBuglio/Grassdancer
+@b24715473f648a3f35a1fd79993550bd1047308f@$$$
 Fixed a wwise bug and made death effect happen on the more specific and cool camera
 @22770747642bd9cb6e33afe912cfda0625acaa9d@$$$
 Merge branch 'master' of https://github.com/BrendanLoBuglio/Grassdancer
@@ -1466,6 +1546,8 @@ Merge branch 'master' of https://github.com/BrendanLoBuglio/Grassdancer
 @83a4cda534b6967aa216cef95750469483d49e0d@$$$
 Merge branch 'master' of https://github.com/BrendanLoBuglio/Grassdancer
 @87b8a4f56506f349eb66b06b88a25b2aec77fc69@$$$
+minor animation tweaks pt. 2
+@0bf68d28630cf43772dc0e4561f09098d5b554ab@$$$
 Added cave 2 build
 @3d0618a7a38fd1b6795cdd0c7d1ea1da680659a1@$$$
 Merge branch 'master' of https://github.com/BrendanLoBuglio/Grassdancer
@@ -1476,12 +1558,16 @@ Merge branch 'master' of https://github.com/BrendanLoBuglio/Grassdancer
 @d0f110a4d0a3eccb9082ad62f7e2c712e5276729@$$$
 minor animation fix
 @26dd36794065c2fec74d030ae5f659e6fb57f676@$$$
+Merge branch 'master' of https://github.com/BrendanLoBuglio/Grassdancer
+@a826650f34887b53896aef397799d9ed7bb1241a@$$$
 lots of things
 @483588b86de00adf0efd2ba1759c97c2e2ec74e7@$$$
 Merge branch 'master' of https://github.com/BrendanLoBuglio/Grassdancer
 @8a3061ab04f8ec784bc169e2e48056b75424dd2e@$$$
 nut
 @8827ede524bedb49453a8db19989136017c20104@$$$
+Merge branch 'master' of https://github.com/BrendanLoBuglio/Grassdancer
+@91d551090ded03857cb4434d56044806235e8174@$$$
 new (partially textured jones) with fancy wings
 @eac5a1e3d605bc16b6dc3f3bb1b9a432e6c52112@$$$
 Merge branch 'master' of https://github.com/BrendanLoBuglio/Grassdancer
@@ -1627,6 +1713,8 @@ gotta have prefabs if you wanna have similar trigger zones!
 @d58d691529576edda3f36e7a921d8c7bb1d29e87@$$$
 Merge branch 'master' of https://github.com/BrendanLoBuglio/Grassdancer
 @e9b56ee497bb0c69853eb6c5a155205401c4fc38@$$$
+spiders added with walk animation
+@1ae685b95a75de9ad2b7a1c9e34db713b2daaec7@$$$
 Redoing camera overrides yo
 @673b2c7ca41a0b08e6e0906da57008f423dd2182@$$$
 camera will work
@@ -1659,6 +1747,8 @@ some terrain management guys
 @d82367a0ae59505a3baeb6c1c697a2d6cc3686fe@$$$
 Fixed the 'chunking' issue as you climb grass, where you'd stutter position on the transition between segments. Remind me at some point to clean up the GrassGenerator, man.
 @4221b5807232fdfc0b7eca4f21f3e7df4a34f2f3@$$$
+Merge branch 'master' of https://github.com/BrendanLoBuglio/Grassdancer
+@989228c6fe243b06974e06ca771d4abf9b49cf54@$$$
 Fixed dat Kiny grass!!!! Cool Boy
 @fa360c30c7a4763a8311c1e61d9592d7bb79f43c@$$$
 better jump camera is in
@@ -1699,6 +1789,8 @@ more web destruction
 @62dc069c790ed7263c6d9a911220633205abfb1b@$$$
 fixed secondary edge case caused by fixing first edge case.
 @611d4e2fb4dd61640b16d36b7125b5d184850527@$$$
+came is using work up instead of jones up cuz jones is rotating around yall
+@a1c3ceb8a67b0d63d8963cc1a6b09d5d2750bcaf@$$$
 Merge branch 'master' of https://github.com/BrendanLoBuglio/Grassdancer
 @277bcbd8fd954cd3f0893ab3aa024e8a684efdff@$$$
 vivian imported w/ animations
@@ -1824,6 +1916,10 @@ Merge branch 'master' of https://github.com/BrendanLoBuglio/Grassdancer
 @791a16d2e5ca082afbc2f87becb488c53f8983f1@$$$
 Added some temp Tiger beetle sounds to Wwise
 @d7d312939d955e68c5b6684b9e0440db286e648e@$$$
+hooked up basic jones animations. also jones is pink now
+@a407f935bb2d8258fd766c017d3a5df5a3ad64fd@$$$
+Merge branch 'master' of https://github.com/BrendanLoBuglio/Grassdancer
+@c72371d0e998fd82bdd0630e4619597448176ab4@$$$
 Added whisker raycasts
 Reintroduced doward raycast
 @2925b31b6847219f4c920db3ae3e72e7bcb92574@$$$
@@ -1888,6 +1984,8 @@ commit so i can pull from will. wip
 @ed57703c47269db74424fc4278d99e793d4d865d@$$$
 pcm has a reference to the camera controller
 @a24ecd4a24497a0697618d9ecfe2db5ca12ebcd5@$$$
+cleaned up spawner a bit.
+@888c6e8ef052e83e0db7e86ece9149d5c3ba8740@$$$
 Re-did my changes re: the vignette bug
 @0208948e20543f2827efba640eba9f2ac6cf32f5@$$$
 Merge branch 'master' of https://github.com/BrendanLoBuglio/Grassdancer
@@ -1969,6 +2067,8 @@ Fixed some music not looping.
 Rebuild soundbanks
 Added wwise validationcache to .gitignore.
 @5fffa8cdc40b6ef9685c2874c6efe84c5f5b61d4@$$$
+Merge branch 'master' of https://github.com/BrendanLoBuglio/Grassdancer
+@6de684d90ee7200214bd3757b79798a0a03a8d46@$$$
 Fixed an issue where grass would try to read from it's masters rotations before the rotations were actually set
 @2acc977b14491d00e9aedd574852e107af15e983@$$$
 Second pass at a smarter camera:
@@ -2093,6 +2193,8 @@ new jones texture aw yisssss
 @efc63136b50fc3fe065b8f39e8664077c1f919f4@$$$
 Automatic Wwise adjustments to last pull before I push
 @a80b97b1ec34e63c9140c3da79529406b62f7da4@$$$
+no message
+@0e6dba58a8cd143c468465fb7f6f65ece4f1f670@$$$
 Added themes to Lily Day and Lily Night playlists. Also randomized those playlists so different themes are heard
 @2e98ecb7329afef18f102dabe334243f136626da@$$$
 Skybox now has its own color keys
@@ -2219,6 +2321,8 @@ Merge branch 'master' of https://github.com/BrendanLoBuglio/Grassdancer
 @011eef1a4ce98fefa652daeab1f806b760084589@$$$
 First pass on GrassGenerator. Can create a stack of jointed capsules, and hook up the joints of a grass mesh. Not ready for gameplay yet.
 @50bc282a9c981ecc59d5e4d618e0166415d672a3@$$$
+Fixed the Mushroom boinking
+@c8b230241d3410bffa73b734b6f9f22c2209ece0@$$$
 Merge branch 'master' of https://github.com/BrendanLoBuglio/Grassdancer
 
 # Conflicts:
@@ -2230,6 +2334,8 @@ Forgot topush the respawn zone prefab last time
 @d040eafb9ebcad134174a8ec08a47a2131a8d4dd@$$$
 Fixed death, added a checkpoint
 @7e772e3abc24ef6c32aec86a0e422dfbf81ec44b@$$$
+Merge branch 'master' of https://github.com/BrendanLoBuglio/Grassdancer
+@92b31038220d712bf6158c09495e575ca2c49dd5@$$$
 Imported Ryan's excellent Jones animations, and hooked 'em up into the Jones controllers. It runs real well!
 @49486093cec8bb911d79a8ac469cac1c2f9c8558@$$$
 started tutorial 2nd pass
@@ -2291,6 +2397,8 @@ Merge branch 'master' of https://github.com/BrendanLoBuglio/Grassdancer
 @c85f841ee9935a3d86f4d78d9915848776d1bc46@$$$
 Some lighting fixes in the hub scene so that the game's not, y'know, pitch black
 @fad6b715b74661947384ef7d59c64c9237178a0d@$$$
+Added my music transition changes back into LilyPond
+@b00ed50e0b51d48801f27751212edf1dfbe2994a@$$$
 transition service
 @caabe51f93b6f6cba77dd0ad41a7e22fd6decf4f@$$$
 Merge branch 'master' of https://github.com/BrendanLoBuglio/Grassdancer
@@ -2417,6 +2525,8 @@ Fixed GrassCamera and LeapingCamera behaviors. Playable????
 Increased clipping plane distance
 Added global fog
 @1a6613067319bb72917ee6f70c0345e9cd64307e@$$$
+Merge branch 'master' of https://github.com/BrendanLoBuglio/Grassdancer
+@7d20607e6db4b08998d52fb824aad5344ffa4900@$$$
 /////Jones Temp Jump Model\\\\\
 
 - Jones Jump Model
@@ -2424,6 +2534,8 @@ Added global fog
 @d18a6785f46fc3c05d43d3233c0dc567755fa19a@$$$
 forgot a small bertha tweak
 @e5c218e818a27c5a7b2d46c910c6273c77d61a7c@$$$
+Merge branch 'master' of https://github.com/BrendanLoBuglio/Grassdancer
+@4134b5088a6b3351341b539599aac48161ba98ab@$$$
 /////New Jones Implemented\\\\\
 
 - Model imported
@@ -2451,6 +2563,8 @@ MEGAMERGE PEOPLE
 - Wiggle animations
 - Idle animations
 @f4f6671c84939d97ee309d114945d3236374aa26@$$$
+ANOTHER MERGE YO
+@ef27ab8826b6c249fb374bb5ae356d684b36b955@$$$
 Fixed GrassJumpTime
 @b533954c883992a4a8476642792f91e1e8993607@$$$
 Big old merge
@@ -2463,6 +2577,10 @@ Merge branch 'master' of https://github.com/BrendanLoBuglio/Grassdancer
 @d23b7c9fda0da56966641d3c25c79f83e5d5df27@$$$
 lily pond geometry changes, water kill volumes, player jump tweaks
 @33ae0a24a624817588e4958f0d0f9ce8ca543fbd@$$$
+Bertha stinger in.
+Death broken.
+Fixed previously unknown bug where bertha wouldn't recognize the new player.
+@6d162662c695256400cb2cd3e41003cc3e236601@$$$
 Added free move zone and smoothing. Game is so much better.
 @f1e4c959d9121cc6baf6080abbb5d9343565f959@$$$
 Added jump sfx nad made grass jump way crispier
@@ -2475,6 +2593,8 @@ RIP old jones
 @8df39c3a65740ccee63d0e95f8bcdb62892c4a9b@$$$
 Merge branch 'master' of https://github.com/BrendanLoBuglio/Grassdancer
 @b15ec966c5a261ec2e88c55949d90f05bd9d6999@$$$
+lilypond qol changes while roadblocked
+@dffe235133342d20be0f0c2d9cf69afa73572f58@$$$
 New Jones now works with PlayerInfo! Old Jones is officially B-R-O-K-E-N.
 @06424ada924a8130a93c35da806e05eba4009cf4@$$$
 Forgot to push New Jones
@@ -2604,6 +2724,8 @@ Added some unpushed meta files.
 @13e4a1f325f0c85ef8c22563276d71a8a5c32283@$$$
 Merge branch 'master' of https://github.com/BrendanLoBuglio/Grassdancer
 @8de83fd41ac3b884a28c111e1eaddaece27dea7e@$$$
+Set up ShortJump so that the tweakables are all things like Height, distance, etc, and then the actual physics constants are derived. TODO: Implement into actual jump!
+@5f677d33682d499952f17e3871d35b0a7b91e1c2@$$$
 Merge branch 'master' of https://github.com/BrendanLoBuglio/Grassdancer
 @f0306652696b30ca03a0516ff7d9428a679c3867@$$$
 hooked up tutorial text, changed dismissable messages to have an option to auto dismiss after certain amount of time, got most of core bertha functionality done
@@ -2690,12 +2812,16 @@ Slope's where I like it -- slope slowdown and blcoking is a thing. Started worki
 @5558013d195a3d2bfc4e9c3c53fd3fc3e0273817@$$$
 /////Renamed Red Mushroom Models\\\\\
 @e5695d4a2a80b111bc141aa134e503673f493140@$$$
+Merge branch 'master' of https://github.com/BrendanLoBuglio/Grassdancer
+@6a3a3e29341b91e90bb7f9e053d437c14cbf2d85@$$$
 /////Rename Some Models And Shit\\\\\
 
 I ALSO REMOVED THIRTY DIFFERENT TYPES OF GRASS MODELS
 @50769a62600f4acca94dce4f175f79c23f413120@$$$
 Merge branch 'master' of https://github.com/BrendanLoBuglio/Grassdancer
 @f5515ea3efb9a70f4348ad3de0d376e895115919@$$$
+tutorial level beginnings
+@40a23058654a657d2654d9638f009eb520b08883@$$$
 Menu works literally
 @95420372990b8b76619bc7acef5b9b558dc72983@$$$
 More menu stuff. Trying to get it to work with the GameManager
@@ -2706,6 +2832,8 @@ Cleaning up LoadLevelTrigger:
  -Added prefab to HubGameplayGeo Scene
  -Moved play in playerscene so he starts in the hub.
 @c64e68d86bbfd3805f5691f8c3863bc5f76baae6@$$$
+Merge branch 'master' of https://github.com/BrendanLoBuglio/Grassdancer
+@57a0b0202226d3144cdda682db7418ec95f07b35@$$$
 First pass of new menu and pause
 @e8ee50079cc427fe69ecf77ce8b359ada7dc8951@$$$
 Merge branch 'master' of https://github.com/BrendanLoBuglio/Grassdancer
@@ -2747,10 +2875,14 @@ Reogranized wwise project and put music back in
 @7fbda95a3190468d77da47da85eb4ef6fabaaf9a@$$$
 Lots of wwise shit.
 @def91519ecf3ca3590663c96e821416bc305f0c6@$$$
+Merge branch 'master' of https://github.com/BrendanLoBuglio/Grassdancer
+@7201bd333cfcc37c53a6f4bf03b242240c9e7fab@$$$
 Pushed a fix where a servicehandler was previously being referred to in Awake
 @8beaacbad8717835cc0c1e4e5af5cd6f77c6acd6@$$$
 Merge branch 'master' of https://github.com/BrendanLoBuglio/Grassdancer
 @679015a6369a9f837b9d83103f97134bc66b64ce@$$$
+wwise things
+@fa3e6879cb7a81adb6e145728c503a7e19676588@$$$
 Fixed a bug where horizontal camera controls were accidentally bound to LS instead of RS
 @6656580fbbc6d598c32069d83c443139e89fbcff@$$$
 Forgot to make an interface implementation public in the last commit /whoops
@@ -2941,6 +3073,8 @@ adding wwise
 @244af5d8ff0dcab3c5166b197964602e5adf7c9c@$$$
 If this works lfs works.
 @f64572794bae3622bbaf646edddecc25c700bf9a@$$$
+Adding WAV files to the LFS Tracking service
+@1bf2e7a699143f6253d9f8618100b51518c79c4c@$$$
 Added lfs tracking for .fbx files
 @0a094d96f46d4d477cb2f960c0e0bec4defb9486@$$$
 Little test here
